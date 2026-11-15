@@ -1,0 +1,23 @@
+torch>=2.1
+transformers>=4.51
+trl>=0.17
+accelerate
+datasets
+vllm>=0.8
+tiktoken
+scikit-learn
+tqdm
+numpy
+matplotlib
+sentencepiece
+openai>=1.0
+dashscope
+requests
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-retrievers-bm25
+
+# opd add-on: bailian teacher proxy
+fastapi
+uvicorn
+aiohttp
